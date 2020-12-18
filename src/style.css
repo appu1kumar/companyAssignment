@@ -1,0 +1,70 @@
+.nav-link {
+  font-size: 20px;
+}
+
+.navbar {
+  border-radius: 0px;
+  padding: 0;
+}
+
+.carouselImagee {
+  max-height: 400px;
+}
+
+.main {
+  margin-top: 30px;
+}
+
+.card-body,
+h6,
+p {
+  margin-top: 12px;
+  font-size: 14px;
+}
+.card {
+  margin-bottom: 20px;
+}
+
+.cart-badge,
+.cart-badge:hover {
+  border-radius: 50%;
+  padding: 2px;
+  font-size: 12px;
+  font-style: italic;
+  background-color: #000000;
+}
+
+.cart-badge {
+  margin-left: 2px;
+}
+
+.card-body .image {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.modalImage {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.cartIcon {
+  font-size: 25px;
+  color: #ffffff;
+}
+.cartImage {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.product-content {
+  margin-top: 30px;
+}
+
+.product-list {
+  margin-top: 15px;
+}
+
+.btn-outline-primary {
+  font-size: 15px;
+}
